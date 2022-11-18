@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neurothustra
-- 👀 I’m interested in web technologies, horror movies, Augmented and virtual reality.
+- 👀 I’m interested in technology, horror movies, Augmented and virtual reality.
 - 🌱 I’m currently learning Unity, 3D modeling w/ Blender, Spark AR.
 - 💞️ I’m looking to collaborate on public utility software, when I have time.
 
